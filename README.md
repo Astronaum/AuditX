@@ -10,6 +10,9 @@ The company relies on internal auditors to control banking operations, analyze c
 
 To meet the company's requirements, an application called AuditX is proposed. It is a multi-user platform capable of managing auditors and their assignments through three available profiles: Admin, Auditor, and Collaborator.
 
+![UserSpace](userspace.png)
+![Forms](forms.png)
+
 ### Admin Profile
 
 The Admin has the ability to:
@@ -30,6 +33,7 @@ The Auditor can:
 - Access agencies they are assigned to and only their collaborators.
 - Start auditing each collaborator by inserting their letter of recommendation and answering the proposed questions.
 - Deposit audit reports per agency and view the history of audits performed.
+
 
 ### Collaborator Profile
 
