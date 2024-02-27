@@ -1,0 +1,23 @@
+.dropdown-item:active {
+    background-color: #ffc107;
+    color: white;
+    }
+.signoutcolor{
+    color: red;
+}
+.weirdfocus:focus {
+    outline:0 !important;
+    outline-style: none;
+    box-shadow: none;
+    border-color: #ffc107;
+    }
+.weirdfocus2:focus {
+        outline:0 !important;
+        outline-style: none;
+        box-shadow: none;
+        border-color: #17a734;
+        background-color: #17a734;
+        }
+input:focus { 
+    border: 1px solid #ffc107;
+            }
