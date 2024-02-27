@@ -25,7 +25,7 @@ The Admin has the ability to:
 The Auditor can:
 
 - Receive notifications for agencies assigned for auditing.
-- Create audit forms specifying reference, title, mission, and targeted role.
+- Create audit forms using a Google Forms-like interface, specifying reference, title, mission, and targeted role.
 - Modify created audit forms by adding or removing questions and choosing the desired response type.
 - Access agencies they are assigned to and only their collaborators.
 - Start auditing each collaborator by inserting their letter of recommendation and answering the proposed questions.
